@@ -1,0 +1,76 @@
+about:
+  description: The zero configuration build tool for the web. 📦🚀
+  license: MIT
+  homepage: https://parceljs.org
+  head: 5948485
+  archived: false
+  latestVersion: v2.16.4
+  collectedAt: 2026-09-03T05:05:10Z
+timeline:
+  created: 2017-08-07
+  lastCommit: 2026-02-02
+  lastRelease: 2026-02-02
+popularity:
+  star: 44023
+  watcher: 447
+  fork: 2290
+  release: 52
+  contributor: 413
+  pullRequest: 841
+  issue: 5542
+language:
+  JavaScript: 4236829
+  Rust: 940343
+  TypeScript: 48875
+  HTML: 36536
+  CSS: 17874
+  Vue: 3977
+  Shell: 2319
+  SCSS: 1592
+  Elm: 1362
+  Less: 1141
+  Pug: 1044
+  GLSL: 827
+  XSLT: 780
+  MDX: 546
+  Stylus: 478
+  Makefile: 392
+  Sass: 307
+  CoffeeScript: 71
+  SugarSS: 69
+  Kotlin: 63
+  Reason: 23
+totalLine: 5295448
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 0
+    mergedPR: 0
+    openPR: 8
+    closedIssue: 0
+    openIssue: 3
+    commit: 0
+  last90d:
+    since: 2026-06-05
+    release: 0
+    mergedPR: 0
+    openPR: 20
+    closedIssue: 1
+    openIssue: 9
+    commit: 0
+  last180d:
+    since: 2026-03-07
+    release: 0
+    mergedPR: 0
+    openPR: 30
+    closedIssue: 5
+    openIssue: 16
+    commit: 0
+  last360d:
+    since: 2025-09-08
+    release: 4
+    mergedPR: 8
+    openPR: 46
+    closedIssue: 25
+    openIssue: 28
+    commit: 14
