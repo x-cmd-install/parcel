@@ -7,7 +7,7 @@ about:
   head: 5948485
   archived: false
   latestVersion: v2.16.4
-  collectedAt: 2026-09-04T20:06:51Z
+  collectedAt: 2026-09-04T20:35:48Z
 timeline:
   created: 2017-08-07
   lastCommit: 2026-02-02
@@ -101,7 +101,7 @@ total:
   commit: 3499
 ---
 path: /home/runner/.x-repo/github.com/parcel-bundler/parcel
-collectedAt: 2026-09-04T20:06:56Z
+collectedAt: 2026-09-04T20:35:54Z
 loc:
   JavaScript:
     code: 143783
