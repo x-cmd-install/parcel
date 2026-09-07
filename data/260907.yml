@@ -5,7 +5,7 @@ about:
   head: 5948485
   archived: false
   latestVersion: "v2.16.4"
-  collectedAt: 2026-09-07T06:06:17Z
+  collectedAt: 2026-09-07T18:22:43Z
 timeline:
   created: 2017-08-07
   lastCommit: 2026-02-02
@@ -99,7 +99,7 @@ total:
   commit: 3499
 ---
 path: /home/runner/.x-repo/github.com/parcel-bundler/parcel
-collectedAt: 2026-09-07T06:06:30Z
+collectedAt: 2026-09-07T18:22:52Z
 loc:
   JavaScript:
     code: 143783
@@ -398,7 +398,7 @@ checks:
       - 'Warn: 0 commits out of 10 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T06:06:34+00:00
+  collectedAt: 2026-09-07T18:22:53+00:00
   platform:
     darwin/arm64:
       name:  null
