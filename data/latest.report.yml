@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.16.4"
   latestRelease: "v2.16.4"
   latestPrerelease: "v2.0.0-rc.0"
-  collectedAt: 2026-09-10T21:41:44Z
+  collectedAt: 2026-09-10T22:07:08Z
 timeline:
   created: 2017-08-07
   lastCommit: 2026-02-02
@@ -103,7 +103,7 @@ total:
   commit: 3499
 ---
 path: /home/runner/.x-repo/github.com/parcel-bundler/parcel
-collectedAt: 2026-09-10T21:41:54Z
+collectedAt: 2026-09-10T22:07:20Z
 loc:
   JavaScript:
     code: 143783
