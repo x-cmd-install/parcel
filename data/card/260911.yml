@@ -401,4 +401,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 10 are checked with a SAST tool'
 ---
-{"id":282021243,"author":{"login":"devongovett","id":19409,"node_id":"MDQ6VXNlcjE5NDA5","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOBe_BA84Qz017","tag_name":"v2.16.4","target_commitish":"v2","name":"v2.16.4","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-02-02T03:20:22Z","updated_at":"2026-02-02T03:22:20Z","published_at":"2026-02-02T03:22:20Z","assets":[],"body":"### Fixed\r\n\r\n- Dev server\r\n  - Add `--no-cors` option to disable CORS headers \u2013 [Details](https://github.com/parcel-bundler/parcel/pull/10268)\r\n"}
