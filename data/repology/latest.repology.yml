@@ -2,8 +2,8 @@
   srcname: parcel
   binname: parcel
   visiblename: parcel
-  version: 1.0.6
-  origversion: 1.0.6-2
+  version: 1.0.8
+  origversion: 1.0.8-1
   status: unique
   summary: Native host for Parcel browser extension for zx2c4's pass password manager
   maintainers:
