@@ -14,15 +14,15 @@ x install parcel
 
 ## Code insight
 
-Total: **189,356** lines of code across **4194** files in the top 5 languages.
+Total: **134,267** lines of code across **3011** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 143,783 | 9,418 | 16,929 | 2983 |
-| Rust | 27,270 | 887 | 2,596 | 61 |
-| Json | 12,376 | 0 | 26 | 796 |
-| Html | 1,482 | 3 | 47 | 238 |
-| TypeScript | 1,308 | 86 | 213 | 116 |
+| Rust | 92,729 | 3,269 | 8,441 | 236 |
+| Json | 15,570 | 0 | 12 | 1314 |
+| JavaScript | 10,600 | 758 | 1,032 | 1410 |
+| Swift | 3,084 | 712 | 489 | 31 |
+| Go | 2,882 | 879 | 465 | 20 |
 
 ## OpenSSF Scorecard
 
@@ -30,9 +30,9 @@ Overall score: **2.7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 3/28 approved changesets -- score normalized to 1
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Maintained** (1/10) — 0 commit(s) and 2 issue activity found in the last 90 days -- score normalized to 1
+- **Code-Review** (1/10) — Found 3/28 approved changesets -- score normalized to 1
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.16.4` (2026-02-02)
-- **Last commit**: 2026-02-02
+- **Last commit**: 2026-11-04
 
 ## Popularity
 
-- **Stars**: 44,005 · **Forks**: 2,397 · **Open issues**: 5,541 · **Contributors**: 413
+- **Stars**: 44,011 · **Forks**: 2,392 · **Open issues**: 5,541 · **Contributors**: 410
 
 ## Totals (cumulative)
 
-- **Releases**: 52 · **Merged PRs**: 2600 · **Open PRs**: 158 · **Closed issues**: 5085 · **Open issues**: 456 · **Commits**: 3499
+- **Releases**: 52 · **Merged PRs**: 2600 · **Open PRs**: 161 · **Closed issues**: 5086 · **Open issues**: 455 · **Commits**: 4162
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 0 | 3 | 0 | 2 | 0 |
-| last60d | 2026-09-05 | 0 | 0 | 8 | 1 | 3 | 0 |
-| 90d | 2026-08-06 | 0 | 0 | 16 | 1 | 4 | 0 |
-| last180d | 2026-05-08 | 0 | 0 | 33 | 2 | 14 | 0 |
-| 360d | 2025-11-09 | 2 | 4 | 55 | 19 | 20 | 9 |
-| last720d | 2024-11-14 | 16 | 40 | 67 | 128 | 35 | 126 |
+| 30d | 2026-10-06 | 0 | 0 | 7 | 0 | 2 | 220 |
+| last60d | 2026-09-06 | 0 | 0 | 12 | 1 | 3 | 290 |
+| 90d | 2026-08-07 | 0 | 0 | 20 | 1 | 4 | 330 |
+| last180d | 2026-05-09 | 0 | 0 | 37 | 2 | 14 | 559 |
+| 360d | 2025-11-10 | 2 | 4 | 59 | 19 | 20 | 636 |
+| last720d | 2024-11-15 | 16 | 40 | 70 | 128 | 35 | 789 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for parcel lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:46:06Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T08:06:54Z._
