@@ -14,13 +14,13 @@ x install parcel
 
 ## Code insight
 
-Total: **134,760** lines of code across **3045** files in the top 5 languages.
+Total: **136,254** lines of code across **3057** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 92,815 | 3,270 | 8,450 | 236 |
-| Json | 15,905 | 0 | 12 | 1328 |
-| JavaScript | 10,628 | 758 | 1,032 | 1430 |
+| Rust | 94,117 | 3,317 | 8,590 | 239 |
+| Json | 16,021 | 0 | 12 | 1332 |
+| JavaScript | 10,704 | 773 | 1,042 | 1435 |
 | Swift | 3,084 | 712 | 489 | 31 |
 | Go | 2,882 | 879 | 465 | 20 |
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.16.4` (2026-02-02)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-11
 
 ## Popularity
 
-- **Stars**: 44,011 · **Forks**: 2,395 · **Open issues**: 5,546 · **Contributors**: 410
+- **Stars**: 44,012 · **Forks**: 2,395 · **Open issues**: 5,546 · **Contributors**: 410
 
 ## Totals (cumulative)
 
-- **Releases**: 52 · **Merged PRs**: 2600 · **Open PRs**: 168 · **Closed issues**: 5089 · **Open issues**: 457 · **Commits**: 4164
+- **Releases**: 52 · **Merged PRs**: 2601 · **Open PRs**: 166 · **Closed issues**: 5122 · **Open issues**: 424 · **Commits**: 4184
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 0 | 16 | 1 | 6 | 187 |
-| last60d | 2026-09-11 | 0 | 0 | 21 | 2 | 7 | 271 |
-| 90d | 2026-08-12 | 0 | 0 | 28 | 2 | 8 | 315 |
-| last180d | 2026-05-14 | 0 | 0 | 43 | 4 | 14 | 552 |
-| 360d | 2025-11-15 | 2 | 4 | 65 | 21 | 22 | 638 |
-| last720d | 2024-11-20 | 16 | 40 | 76 | 128 | 36 | 791 |
+| 30d | 2026-10-12 | 0 | 1 | 15 | 1 | 6 | 206 |
+| last60d | 2026-09-12 | 0 | 1 | 20 | 2 | 7 | 290 |
+| 90d | 2026-08-13 | 0 | 1 | 27 | 2 | 8 | 334 |
+| last180d | 2026-05-15 | 0 | 1 | 42 | 4 | 14 | 571 |
+| 360d | 2025-11-16 | 2 | 5 | 63 | 21 | 22 | 657 |
+| last720d | 2024-11-21 | 16 | 41 | 74 | 128 | 36 | 811 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for parcel lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:58:09Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:48:07Z._
