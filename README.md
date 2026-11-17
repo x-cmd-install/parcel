@@ -14,13 +14,13 @@ x install parcel
 
 ## Code insight
 
-Total: **136,254** lines of code across **3057** files in the top 5 languages.
+Total: **138,855** lines of code across **3108** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 94,117 | 3,317 | 8,590 | 239 |
-| Json | 16,021 | 0 | 12 | 1332 |
-| JavaScript | 10,704 | 773 | 1,042 | 1435 |
+| Rust | 95,824 | 3,394 | 8,708 | 242 |
+| Json | 16,331 | 0 | 12 | 1363 |
+| JavaScript | 10,765 | 773 | 1,048 | 1452 |
 | Swift | 3,084 | 712 | 489 | 31 |
 | Go | 2,882 | 879 | 465 | 20 |
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.16.4` (2026-02-02)
-- **Last commit**: 2026-11-11
+- **Last commit**: 2026-11-17
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 52 · **Merged PRs**: 2601 · **Open PRs**: 168 · **Closed issues**: 5123 · **Open issues**: 424 · **Commits**: 4184
+- **Releases**: 52 · **Merged PRs**: 2602 · **Open PRs**: 169 · **Closed issues**: 5123 · **Open issues**: 424 · **Commits**: 4187
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 1 | 15 | 1 | 5 | 174 |
-| last60d | 2026-09-17 | 0 | 1 | 22 | 2 | 7 | 283 |
-| 90d | 2026-08-18 | 0 | 1 | 29 | 2 | 9 | 327 |
-| last180d | 2026-05-20 | 0 | 1 | 41 | 4 | 15 | 556 |
-| 360d | 2025-11-21 | 2 | 5 | 65 | 21 | 22 | 657 |
-| last720d | 2024-11-26 | 14 | 39 | 76 | 124 | 37 | 801 |
+| 30d | 2026-10-18 | 0 | 2 | 16 | 1 | 5 | 177 |
+| last60d | 2026-09-18 | 0 | 2 | 23 | 2 | 7 | 286 |
+| 90d | 2026-08-19 | 0 | 2 | 30 | 2 | 9 | 330 |
+| last180d | 2026-05-21 | 0 | 2 | 42 | 4 | 15 | 559 |
+| 360d | 2025-11-22 | 2 | 6 | 66 | 21 | 22 | 660 |
+| last720d | 2024-11-27 | 14 | 40 | 77 | 124 | 37 | 804 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for parcel lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:42:25Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T10:59:06Z._
