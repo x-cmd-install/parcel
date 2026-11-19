@@ -14,25 +14,25 @@ x install parcel
 
 ## 代码洞察
 
-合计: **138,855** 行代码（覆盖前 5 种语言、共 **3108** 个文件）。
+合计: **140,625** 行代码（覆盖前 5 种语言、共 **3096** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 95,824 | 3,394 | 8,708 | 242 |
+| Rust | 97,019 | 3,417 | 8,806 | 242 |
 | Json | 16,331 | 0 | 12 | 1363 |
-| JavaScript | 10,765 | 773 | 1,048 | 1452 |
-| Swift | 3,084 | 712 | 489 | 31 |
-| Go | 2,882 | 879 | 465 | 20 |
+| JavaScript | 10,770 | 773 | 1,048 | 1455 |
+| Swift | 3,216 | 749 | 503 | 31 |
+| CHeader | 3,138 | 1,959 | 531 | 5 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **2.7 / 10**
+总评分: **5.6 / 10**
 
 评分最低的几项:
 
-- **Maintained** (1/10) — 0 commit(s) and 2 issue activity found in the last 90 days -- score normalized to 1
-- **Code-Review** (1/10) — Found 3/28 approved changesets -- score normalized to 1
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Code-Review** (0/10) — Found 0/11 approved changesets -- score normalized to 0
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## 源代码
 
@@ -43,26 +43,26 @@ x install parcel
 ## 发布
 
 - **最新版本**: `v2.16.4` (2026-02-02)
-- **最近提交**: 2026-11-17
+- **最近提交**: 2026-11-18
 
 ## 流行度
 
-- **Star**: 44,024 · **Fork**: 2,396 · **开放 issue**: 5,547 · **贡献者**: 410
+- **Star**: 44,028 · **Fork**: 2,398 · **开放 issue**: 5,547 · **贡献者**: 410
 
 ## 累计统计
 
-- **发布数**: 52 · **已合并 PR**: 2602 · **开放 PR**: 169 · **已关闭 issue**: 5123 · **开放 issue**: 424 · **提交数**: 4187
+- **发布数**: 52 · **已合并 PR**: 2603 · **开放 PR**: 169 · **已关闭 issue**: 5123 · **开放 issue**: 424 · **提交数**: 4189
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 2 | 16 | 1 | 5 | 177 |
-| last60d | 2026-09-18 | 0 | 2 | 23 | 2 | 7 | 286 |
-| 90d | 2026-08-19 | 0 | 2 | 30 | 2 | 9 | 330 |
-| last180d | 2026-05-21 | 0 | 2 | 42 | 4 | 15 | 559 |
-| 360d | 2025-11-22 | 2 | 6 | 66 | 21 | 22 | 660 |
-| last720d | 2024-11-27 | 14 | 40 | 77 | 124 | 37 | 804 |
+| 30d | 2026-10-20 | 0 | 3 | 16 | 1 | 5 | 179 |
+| last60d | 2026-09-20 | 0 | 3 | 23 | 2 | 7 | 288 |
+| 90d | 2026-08-21 | 0 | 3 | 30 | 2 | 9 | 332 |
+| last180d | 2026-05-23 | 0 | 3 | 42 | 4 | 15 | 561 |
+| 360d | 2025-11-24 | 2 | 7 | 66 | 21 | 22 | 662 |
+| last720d | 2024-11-29 | 14 | 41 | 77 | 123 | 37 | 806 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ parcel 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T10:59:07Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T10:35:21Z._
